@@ -1,8 +1,8 @@
-## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. I'm Wellington 👨‍💻 . Welcome to my Profile!!! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tonpasso)
+## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. I'm Wellington 👨‍💻 . Welcome to my Profile!!! 
 
 [![GitHub tonpasso](https://img.shields.io/github/followers/tonpasso?label=follow&style=social)](https://github.com/tonpasso)
 <sub>ㅤ</sub>
-[![GitHub tonpasso](https://komarev.com/ghpvc/?username=tonpasso&label=Profile%20views&color=0eb45e&style=flat)](https://github.com/tonpasso)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tonpasso)
 
 Hi, my name is Wellington Passo and I'm from Recife, Brazil. I'm studying to be a Full-Stack Web Developer at [Trybe](https://www.betrybe.com/) :rocket:
 
