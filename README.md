@@ -40,9 +40,9 @@ Hi, my name is Wellington Passo and I'm from Recife, Brazil. I'm studying to be 
 
 <!-- Most Used Langs / Spacer / Wakatime -->
 <!-- [x][ ][ ] -->
-<a href="https://github.com/tonpasso/github-readme-stats">
+<!-- <a href="https://github.com/tonpasso/github-readme-stats">
   <img align="center" src="https://github-readme-stats-tonpasso.vercel.app/api/top-langs/?username=tonpasso&layout=compact&hide=Tex,VHDL&theme=dark&custom_title=Most Used Languages (by code lines)" height="170" />
-</a>
+</a> -->
 <!-- [ ][x][ ] -->
 <a href="https://github.com/tonpasso/github-readme-stats">
   <img onclick="https://github.com/tonpasso/" align="center" src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="5" />
