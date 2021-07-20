@@ -37,10 +37,15 @@ Hi, my name is Wellington Passo and I'm from Recife, Brazil. I'm studying to be 
 <a href="https://github.com/tonpasso/github-readme-stats">
   <img onclick="https://github.com/tonpasso/" align="center" src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="5" />
 </a>
-
-<a href="https://github.com/tonpasso/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-tonpasso.vercel.app/api/top-langs/?username=tonpasso&layout=compact&hide=Tex,VHDL&theme=dark&custom_title=Most Used Languages (by code lines)" height="170" />
+<!-- [ ][ ][x] -->
+<a href="http://wakatime.com/tonpasso">
+  <img align="center" src="https://github-readme-stats-tonpasso.vercel.app/api/wakatime?username=tonpasso&theme=dark&layout=compact&langs_count=8&custom_title=Wellington Passo' Wakatime for last 7 days" height="148" />
 </a>
+
+
+<!-- Vertical Spacer -->
+<p></p>
+
 
 <!--
 **tonpasso/tonpasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
