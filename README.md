@@ -1,10 +1,12 @@
-## Hey 👋. I'm Wellington 👨‍💻 . Welcome to my Profile!!! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tonpasso)
+## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. I'm Wellington 👨‍💻 . Welcome to my Profile!!! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tonpasso)
 
 Hi, my name is Wellington Passo and I'm from Recife, Brazil. I'm studying to be a Full-Stack Web Developer at [Trybe](https://www.betrybe.com/) :rocket:
 
 <a href="mailto:tonpasso10@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/wellington-passo/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 - 🌱 I’m currently learning MySQL and MongoDB;
+- 💬 Ask me about anything, I am happy to help;
+- 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=tonpasso)
 
