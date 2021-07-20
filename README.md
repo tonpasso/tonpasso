@@ -1,4 +1,6 @@
-## Hi there 👋. I am Wellington 👨‍💻 . Welcome to my Profile! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tonpasso)
+## Hey 👋. I'm Wellington 👨‍💻 . Welcome to my Profile!!! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tonpasso)
+
+Hi, my name is Wellington Passo and I'm from recife, Brazil. I'm studying to be a Full-Stack Web Developer at [Trybe](https://www.betrybe.com/) :rocket:
 
 <!--
 **tonpasso/tonpasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
