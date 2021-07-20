@@ -30,16 +30,16 @@ Hi, my name is Wellington Passo and I'm from Recife, Brazil. I'm studying to be 
 <!-- Stats / Spacer Horizontal / Wakatime -->
 
 <!-- [x][ ][ ] -->
-<a href="https://github.com/lohhans/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lohhans&show_icons=true&count_private=true&theme=dark" width="380" />
+<a href="https://github.com/tonpasso/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tonpasso&show_icons=true&count_private=true&theme=dark" width="380" />
 </a>
 <!-- [ ][x][ ] -->
-<a href="https://github.com/lohhans/github-readme-stats">
-  <img onclick="https://github.com/lohhans/" align="center" src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="5" />
+<a href="https://github.com/tonpasso/github-readme-stats">
+  <img onclick="https://github.com/tonpasso/" align="center" src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="5" />
 </a>
 <!-- [ ][ ][x] -->
 <a href="http://wakatime.com/lohhans">
-  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/wakatime?username=lohhans&theme=dark&layout=compact&langs_count=8&custom_title=Armstrong Lohãns' Wakatime for last 7 days" height="148" />
+  <img align="center" src="https://github-readme-stats-tonpasso.vercel.app/api/wakatime?username=tonpasso&theme=dark&layout=compact&langs_count=8&custom_title=Wellington Passo' Wakatime for last 7 days" height="148" />
 </a>
 
 
