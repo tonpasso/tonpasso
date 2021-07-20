@@ -1,4 +1,4 @@
-## Hi there 👋. I am Wellington. Welcome to my Profile! (https://visitor-badge.laobi.icu/badge?page_id=tonpasso.repoName)
+## Hi there 👋. I am Wellington 👨‍💻 . Welcome to my Profile! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tonpasso)
 
 <!--
 **tonpasso/tonpasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
