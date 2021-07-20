@@ -37,15 +37,6 @@ Hi, my name is Wellington Passo and I'm from Recife, Brazil. I'm studying to be 
 <a href="https://github.com/tonpasso/github-readme-stats">
   <img onclick="https://github.com/tonpasso/" align="center" src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="5" />
 </a>
-<!-- [ ][ ][x] -->
-<a href="http://wakatime.com/tonpasso">
-  <img align="center" src="https://github-readme-stats-tonpasso.vercel.app/api/wakatime?username=tonpasso&theme=dark&layout=compact&langs_count=8&custom_title=Wellington Passo' Wakatime for last 7 days" height="148" />
-</a>
-
-
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=tonpasso)
-
 
 
 <!--
@@ -63,4 +54,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=tonpasso)
 -->
