@@ -2,7 +2,7 @@
 
 [![GitHub tonpasso](https://img.shields.io/github/followers/tonpasso?label=follow&style=social)](https://github.com/tonpasso)
 <sub>ㅤ</sub>
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=tonpasso)]
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tonpasso)
 
 Hi, my name is Wellington Passo and I'm from Recife, Brazil. I'm studying to be a Full-Stack Web Developer at [Trybe](https://www.betrybe.com/) :rocket:
 
